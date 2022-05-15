@@ -200,6 +200,7 @@ var cnames_active = {
   "arshad": "arshadmhabib.github.io",
   "artalk": "artalk-demo.qwqaq.com", // noCF
   "artery": "arteryjs.github.io/gh-pages", // noCF? (don´t add this in a new PR)
+  "artfairy": "artfairys.github.io/yms.github.io/"
   "arthurmbandeira": "arthurmbandeira.github.io",
   "artitalk": "artitalkjs.github.io/docs",
   "asdivyansh": "asdivyansh.github.io",
